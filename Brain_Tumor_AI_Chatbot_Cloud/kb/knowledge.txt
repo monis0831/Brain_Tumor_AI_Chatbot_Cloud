@@ -1,0 +1,4 @@
+This app demonstrates a CNN-based Brain Tumor detector UI in Streamlit with optional TensorFlow model loading.
+If no model is present, a safe demo heuristic is used so the app still runs for demo purposes.
+Upload MRI images (JPG/PNG), get prediction and a simple visualization.
+Not for medical use.

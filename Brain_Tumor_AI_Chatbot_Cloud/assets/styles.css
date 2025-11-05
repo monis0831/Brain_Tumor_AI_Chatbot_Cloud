@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap');
+html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
+.main { background: linear-gradient(135deg,#0e142e 0%,#0b1021 100%); color:#e8ecf2; }
+.card { border:1px solid rgba(255,255,255,0.15); border-radius:16px; padding:1rem; background:rgba(255,255,255,0.06); }
+#MainMenu, footer {visibility: hidden;}
